@@ -1,0 +1,41 @@
+body {
+  background:#B3E5FC;
+  text-align:center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: skyblue;
+}
+#caca {
+  font-size:150 px;
+    color: blueviolet;
+    background-color: plum;
+}
+#id {
+    background-color: cornflowerblue;
+    color: darkblue;
+}
+#OMGWAW {
+    background-color: cornflowerblue;
+    color: darkblue;
+}
+#HEHE {
+   border-color: black;
+    width: 40px;
+    height: 40px;
+    
+}
+HEHE:hover {
+    background-color: blue;
+    transform: scale(0.9);
+}
+.menu {
+    position: absolute;
+    display: inline;
+    text-decoration: none;
+}
+.link {
+    list-style: none;
+    float: right;
+ padding-right:20px;
+    padding-left: 20px;
+        
+}
